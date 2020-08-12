@@ -22,11 +22,11 @@ body {
   }
 
 #port {
-  color: black;
+  color: #F7C7FC;
   text-align:center;
   font-size: 25px;
   padding-top: 30px;
-  font-family: 'Gravitas One', cursive;
+  font-family: 'Oleo Script';
 }
 
 .port2 {
@@ -37,10 +37,9 @@ body {
   padding-bottom: 10px;
 }
 
-#text {
+.projects{
   font-family: Lato;
 }
-#
 
 }
 
