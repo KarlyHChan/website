@@ -46,9 +46,12 @@ body {
 /* Navbar container */
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: #F7C7FC;
   font-family: Lobster;
-  justify-content: flex-end;
+}
+.navbar1 {
+  background-color: #F7C7FC;
+  font-family: Lobster;
 }
 
 /* Links inside the navbar */
