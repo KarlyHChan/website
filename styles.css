@@ -7,7 +7,14 @@ body {
   }
   #name {
     color: #F7C7FC;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 30px; 
+    font-family: Sacramento;
   }
+#p {
+  color
+}
 }
 
 
