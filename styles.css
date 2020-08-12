@@ -8,13 +8,18 @@ body {
   #name {
     color: #F7C7FC;
     text-align: center;
-    font-size: 25px;
+    font-size: 30px;
     padding-top: 30px; 
     font-family: Sacramento;
   }
 #p {
-  color
-}
+  color: white;
+  padding-right: 75px;
+  padding-left: 75px;
+  font-family: Lato; 
+  text-align: center;
+  font-size: 20px
+  }
 }
 
 
