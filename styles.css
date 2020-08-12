@@ -42,15 +42,13 @@ body {
   font-family: Lato;
 }
 
-ul {
-  list-style-type: none;
-  background-color: white;
-}
+
 /* Navbar container */
 .navbar {
   overflow: hidden;
   background-color: #333;
-  font-family: Arial;
+  font-family: Lobster;
+  justify-content: flex-end;
 }
 
 /* Links inside the navbar */
