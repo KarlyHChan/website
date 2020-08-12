@@ -11,6 +11,7 @@ body {
     text-align: center;
     font-size: 30px;
     padding-top: 30px; 
+    padding-bottom: 30px;
     font-family: Sacramento;
   }
 #p {
@@ -49,10 +50,6 @@ body {
   background-color: #F7C7FC;
   font-family: Lobster;
 }
-.navbar1 {
-  background-color: #F7C7FC;
-  font-family: Lobster;
-}
 
 /* Links inside the navbar */
 .navbar a {
@@ -60,7 +57,7 @@ body {
   font-size: 16px;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 16px 10px;
   text-decoration: none;
 }
 
