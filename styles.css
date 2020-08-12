@@ -26,10 +26,27 @@ body {
   text-align:center;
   font-size: 25px;
   padding-top: 30px;
-  font-family: 'Gravitas One';
-}
+  font-family: 'Gravitas One', cursive;
 }
 
+.port2 {
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#text {
+  font-family: Lato;
+}
+#
+
+}
+
+
+  
+}
 
 
 *{
